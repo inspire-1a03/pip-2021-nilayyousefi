@@ -66,5 +66,7 @@ In this mobility trend, we can see occasional downward spikes but overall, the p
 > What questions still exist about the trends and the data? What new questions has this process generated? 
 > What additional information would you like to help answer these questions? 
 
+
 <!-- Write a short response below-->
 
+Overall, we are seeing an increase in cases but also an increase in vaccinations. After looking at the trends, vaccinations are gradually increasing which will change the pattern of all the other trends we looked at to start declining. I think a big question while looking at these trends is what are the age groups of these individuals that are being tested, admitted, dying, and/or getting vaccinated? Most of these can be answered by looking further into data from hospital admission and testing/vaccination centres. I believe it would be interesing to group these trends into age groups and see what the patterns are to compare all the different charts. 
