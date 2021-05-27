@@ -4,6 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to my project page
+# Welcome to my Website!
 
-This website has been created by <<your name>> as part of the **Patterns in the Pandemic** module of INSPIRE 1A03. 
+This website has been created by Nilay Yousefi as part of the **Patterns in the Pandemic** module of INSPIRE 1A03. 
