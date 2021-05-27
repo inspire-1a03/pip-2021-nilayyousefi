@@ -17,6 +17,8 @@ nav_order: 2
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+In this trend, we can see the biggest spike in hospitalizations due to COVID-19 during the holiday season. The 3 are interconnected and so, where there is a spike in cases we can see a spike in hospitalizations and deaths. 
+
 ---
 
 ## 2. Ontario's testing and vaccination trends 
@@ -28,6 +30,8 @@ nav_order: 2
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+The graph here seems to be an upward linear trend. In regards to vaccinations, this trend will continue to quickly rise as more doses are becoming available to the public. In regards to the tests, I believe that eventually this trend will plateau for sometime then decline as more people are receiving vaccinations. 
 
 ---
 
@@ -41,6 +45,8 @@ nav_order: 2
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+Looking at this timeline chart, I would say that overall the rates have been increasing as expected for vaccinations. Although it seems that as of May 2021, the three territories have the highest vaccination rates. 
+
 ---
 
 ## 4. Canadian mobility trends 
@@ -52,6 +58,8 @@ nav_order: 2
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+In this mobility trend, we can see occasional downward spikes but overall, the pattern has remained linear over time. Expect for parks, with gyms being closed and nicer weather, more people are getting outdoors thus expalaining the upward trends in the chart during the spring/summer months. 
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
