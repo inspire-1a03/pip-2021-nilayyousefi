@@ -20,11 +20,13 @@ nav_order: 4
 
 ---
 
-## 2. Inquiry 2
+## 2. Cases by Age 
 
-> Q2: *enter your question here*
+> Q2: How did COVID-19 affect individiduals of different age groups?
 
 <!-- Paste your embed code for your figure below-->
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2EwcEhF0LMEmZSCB283GwntHNIxmGs5wA9Gn0xFod8BKXw-AKNgvp0gPHNIeJCGKvag3Zzi4JVh0W/pubchart?oid=347084352&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
