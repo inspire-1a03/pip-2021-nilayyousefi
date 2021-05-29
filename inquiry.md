@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-directed inquiry
+title: Inquiry Questions and Data
 nav_order: 4
 ---
 
