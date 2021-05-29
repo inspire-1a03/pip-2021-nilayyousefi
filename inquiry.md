@@ -6,7 +6,7 @@ nav_order: 4
 
 # Inquiry and Data 
 
-## 1. Inquiry 1
+## 1. Cases vs. Recoveries: Canada 
 
 > Q1: How has the number of positive COVID-19 cases versus recoveries compared across Canada?
 
