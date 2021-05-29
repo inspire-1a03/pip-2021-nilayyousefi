@@ -4,11 +4,11 @@ title: Inquiry Questions and Data
 nav_order: 4
 ---
 
-# Self-directed inquiry
+# Inquiry and Data 
 
 ## 1. Inquiry 1
 
-> Q1: How has the number of positive COVID-19 cases versus recoveries comapred across Canada?
+> Q1: How has the number of positive COVID-19 cases versus recoveries compared across Canada?
 
 <!-- Paste your embed code for your figure below-->
 
