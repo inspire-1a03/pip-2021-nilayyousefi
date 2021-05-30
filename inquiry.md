@@ -26,7 +26,7 @@ nav_order: 4
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2EwcEhF0LMEmZSCB283GwntHNIxmGs5wA9Gn0xFod8BKXw-AKNgvp0gPHNIeJCGKvag3Zzi4JVh0W/pubchart?oid=347084352&amp;format=interactive"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/covidcasesworld/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
