@@ -41,5 +41,7 @@ nav_order: 4
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/worldcovidcases/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
