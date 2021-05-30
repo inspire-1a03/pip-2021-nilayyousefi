@@ -25,12 +25,13 @@ Based on the numbers on this bar graph, Territories are roughly double most prov
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/retailandrectravel/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 Over time, you can notice a decline in retail and recreation during May 2020 due to lockdown and the uncertainty of this virus. As time passed, businesses had to reopen for the economy and the trend begins to increase, remaining at a steady rate until the Stay-At-Home order was issued during the winter holidays in 2020.  
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/retailandrectravel/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
 
 ---
 
