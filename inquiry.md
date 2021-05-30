@@ -35,9 +35,9 @@ nav_order: 4
 ---
 
 
-## 3. Inquiry 3
+## 3. Covid World Map 
 
-> Q3: *enter your question here*
+> Q3: How do Canadian COVID-19 cases compare with the rest of the world? 
 
 <!-- Paste your embed code for your figure below-->
 
