@@ -8,7 +8,7 @@ nav_order: 4
 
 ## 1. Cases vs. Recoveries: Canada 
 
-> Q1: How has the number of positive COVID-19 cases versus recoveries compared across Canada?
+> Q1: How has the number of positive COVID-19 cases versus recoveries compare across Canada?
 
 <!-- Paste your embed code for your figure below-->
 
@@ -17,6 +17,7 @@ nav_order: 4
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+On this graph we have cases on the left axis and recoveries on the right axis. The trends for recoveries across Canada is following a similar trend and therefore we can say that for most part, people have a good survival rate from the virus. Although daily case rates are increasing, daily recoveries are also increasing and in some instances, they are doubled. 
 
 ---
 
@@ -31,6 +32,7 @@ nav_order: 4
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
+On this graph, we can see resolved cases on the left and active cases and deaths on the right. When comparing this data with different age groups we observe the downward trend of active cases vs resolved cases with an increase in age. However, we can see for fatalities, the trend is upward for increasing ages. Overall, this graph tells me that at an older age,  we can see more deaths resulting from the virus although cases are seen least among the elderly. 
 
 ---
 
@@ -45,3 +47,5 @@ nav_order: 4
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+For this data, I was able to use Tableau to create a map. Comparing Canada, it is very similar in numbers with Russia but we can see that it is not doing the best but also not the worst amongst other countries. The United States, Sweden, and Check Republic have a daily new case count of over 10,000 while Canada has about 3000 per 100,000 population. You can hold your mouse over the country to see the number of cases! 
