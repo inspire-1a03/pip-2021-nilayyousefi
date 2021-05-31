@@ -8,7 +8,7 @@ nav_order: 4
 
 ## 1. Cases vs. Recoveries: Canada 
 
-> Q1: How has the number of positive COVID-19 cases versus recoveries compare across Canada?
+> Q1: *How has the number of positive COVID-19 cases versus recoveries compare across Canada?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -23,7 +23,7 @@ On this graph we have cases on the left axis and recoveries on the right axis. T
 
 ## 2. Cases by Age 
 
-> Q2: How did COVID-19 affect individiduals of different age groups?
+> Q2: *How does COVID-19 affect individiduals of different age groups?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -39,7 +39,7 @@ On this graph, we can see resolved cases on the left and active cases and deaths
 
 ## 3. Covid World Map 
 
-> Q3: How do Canadian COVID-19 cases compare with the rest of the world? 
+> Q3: *How do Canadian COVID-19 cases compare with the rest of the world?*
 
 <!-- Paste your embed code for your figure below-->
 
