@@ -13,4 +13,3 @@ A little about me..
 * I love my hamster Yogi 
 * I came into this module with zero knowlegde on how to make a graph on google sheets and I'm leaving with some basic skills 
   
-![Yogi](/images/logo.png)
