@@ -8,7 +8,7 @@ nav_order: 3
 
 
 ## 1. Mapping regional vaccination rates
-> Q1: What is the current state of vaccinations among provinces and territories?  
+> Q1: *What is the current state of vaccinations among provinces and territories?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -21,7 +21,7 @@ Based on the numbers on this bar graph, Territories are roughly double most prov
 ---
 
 ## 2. Changes in travel to retail and recreation destinations for provinces/territories
-> Q2: How has travel to recreation and retail locations changed over time between regions of Canada?  
+> Q2: *How has travel to recreation and retail locations changed over time between regions of Canada?* 
 
 <!-- Paste your embed code for your figure below-->
 
@@ -36,7 +36,7 @@ Over time, you can notice a decline in retail and recreation during May 2020 due
 ---
 
 ## 3. Changes in travel to parks for Ontario counties/municipalities
-> Q3: How has travel to parks changed over time in Ontario's counties/municipalities?  
+> Q3: *How has travel to parks changed over time in Ontario's counties/municipalities?* 
 
 <!-- Paste your embed code for your figure below-->
 
