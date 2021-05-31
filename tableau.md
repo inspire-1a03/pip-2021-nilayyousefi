@@ -56,5 +56,5 @@ In regards to travel to parks in Ontario, again we can see a decline during the 
 
 <!-- Write a short response below-->
 
-
+Comparing my experience between Google Sheets and Tableau, I found Google Sheets easier to navigate through and less problematic. With Tableau, I did run into problems constantly and it got challenging however, I found that Tableau produced more visually pleasing results. When looking at the mobility data, it seemed that trends across provinces were similar. Knowing that the data across Canada is very similar, a new question that arose was how would Canadian data compare to the rest of the world? Lastly, I can use merged data sets to explore the mobility trends within Canada and compare vaccinations, deaths, etc.
 
