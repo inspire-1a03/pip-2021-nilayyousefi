@@ -7,7 +7,7 @@ nav_order: 2
 # Exploring COVID-19 patterns with Google Sheets
 
 ## 1. Trends in national case data
-> Q1: How has daily COVID-19 cases, hospitalizations and deaths changed in Canada over time since the beginning of the pandemic?
+> Q1: *How has daily COVID-19 cases, hospitalizations and deaths changed in Canada over time since the beginning of the pandemic?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -22,7 +22,7 @@ In this trend, we can see the biggest spike in hospitalizations due to COVID-19 
 ---
 
 ## 2. Ontario's testing and vaccination trends 
-> Q2: How has Ontario responded to COVID in terms of testing and vaccinations? 
+> Q2: *How has Ontario responded to COVID in terms of testing and vaccinations?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -36,7 +36,7 @@ The graph here seems to be an upward linear trend. In regards to vaccinations, t
 ---
 
 ## 3. Vaccination rates across provinces and territories
-> Q3: How do vaccination rates over time compare between all provinces and territories? 
+> Q3: *How do vaccination rates over time compare between all provinces and territories?*
 
 <!-- Paste your embed code for your figure below-->
 
@@ -50,7 +50,7 @@ Looking at this timeline chart, I would say that overall the rates have been inc
 ---
 
 ## 4. Canadian mobility trends 
-> Q4. How has mobility changed in Canada over the pandemic?
+> Q4. *How has mobility changed in Canada over the pandemic?*
 
 <!-- Paste your embed code for your figure below-->
 
