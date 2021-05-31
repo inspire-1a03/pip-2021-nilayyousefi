@@ -34,7 +34,7 @@ On this graph we have cases on the left axis and recoveries on the right axis. T
 
 On this graph, we can see resolved cases on the left and active cases and deaths on the right. When comparing this data with different age groups we observe the downward trend of active cases vs resolved cases with an increase in age. However, we can see for fatalities, the trend is upward for increasing ages. Overall, this graph tells me that at an older age,  we can see more deaths resulting from the virus although cases are seen least among the elderly. 
 
-Data was collected from the following [Source][https://covid-19.ontario.ca/data].
+<https://covid-19.ontario.ca/data>
 
 ---
 
