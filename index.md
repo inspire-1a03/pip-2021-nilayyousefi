@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# **Welcome to my Website!**
+# **Welcome to my Website!** :smiley:
 
 This website has been created by Nilay Yousefi as part of the **Patterns in the Pandemic** module of INSPIRE 1A03. 
 
